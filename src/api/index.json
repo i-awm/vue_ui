@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "avatar": null,
+  "color": "purple",
+  "create_time": 1575274980.636123,
+  "email": "1540728978@qq.com",
+  "expired": 31536000,
+  "fs_notify_type": null,
+  "id": "feb4a6e6-7bf4-458d-b72d-5554972f419a",
+  "kefu_time": 1621776179.0,
+  "kefu_token": "43863b0ca295805d31d35a95bb0460e0",
+  "mobpush_reg_id": null,
+  "name": "1540728978",
+  "notify_type": "at_self",
+  "open_id": null,
+  "settings": "[false,false,false,false,true,false,false,false,false,350,false,false,false,false,false,false,false,false]",
+  "teams": [{
+    "cloud_type": "oss",
+    "id": "3af0bd0e-7f01-4471-8c00-95f7a8ad20f9",
+    "name": "\u9038\u523b\u65f6\u5149",
+    "role": {
+      "display_name": "\u67e5\u770b\u8005",
+      "name": "onlooker"
+    },
+    "type": "normal"
+  }, {
+    "cloud_type": "oss",
+    "id": "007d4a02-ae26-4b05-ac04-fe11611526d7",
+    "name": "1540728978\u7684\u56e2\u961f",
+    "role": {
+      "display_name": "\u8d85\u7ea7\u7ba1\u7406\u5458",
+      "name": "superadmin"
+    },
+    "type": "normal"
+  }],
+  "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTYyMTc3NjE3OSwiZXhwIjoxNjUzMzEyMTc5fQ.eyJpZCI6ImZlYjRhNmU2LTdiZjQtNDU4ZC1iNzJkLTU1NTQ5NzJmNDE5YSJ9.WfwzSOWLCdbL8YXB64NfL5o0Q3cX0jO7qvLfHmmRbUU",
+  "wechat_nickname": null
+}

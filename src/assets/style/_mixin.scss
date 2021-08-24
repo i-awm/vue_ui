@@ -1,0 +1,9 @@
+
+// @include resH-to(sm) {}
+@mixin  resH-to($media) {
+    @if $media == sm {
+        @media only screen and (max-height: h-sm){
+            @content;
+        }
+    }
+}
